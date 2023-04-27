@@ -1,0 +1,180 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/richard/Desktop/Projects/4-AU/Week-5/Contract-Puzzles/contracts/Contract1.sol": {
+      "lastModificationDate": 1682576370468,
+      "contentHash": "2b8ede05dc455492d960fb4caf32ba89",
+      "sourceName": "contracts/Contract1.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game1"
+      ]
+    },
+    "/Users/richard/Desktop/Projects/4-AU/Week-5/Contract-Puzzles/contracts/Contract2.sol": {
+      "lastModificationDate": 1682576370480,
+      "contentHash": "f172e66526081ab552345da2e6d277da",
+      "sourceName": "contracts/Contract2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game2"
+      ]
+    },
+    "/Users/richard/Desktop/Projects/4-AU/Week-5/Contract-Puzzles/contracts/Contract3.sol": {
+      "lastModificationDate": 1682576370510,
+      "contentHash": "2b05124713458378e154e67dfbaf87ed",
+      "sourceName": "contracts/Contract3.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game3"
+      ]
+    },
+    "/Users/richard/Desktop/Projects/4-AU/Week-5/Contract-Puzzles/contracts/Contract4.sol": {
+      "lastModificationDate": 1682576370519,
+      "contentHash": "2ced2d36c168fd17a15c507e7e4f8cce",
+      "sourceName": "contracts/Contract4.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game4"
+      ]
+    },
+    "/Users/richard/Desktop/Projects/4-AU/Week-5/Contract-Puzzles/contracts/Contract5.sol": {
+      "lastModificationDate": 1682576370531,
+      "contentHash": "839cfcbbc60a02610c944de9ddf3fac8",
+      "sourceName": "contracts/Contract5.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game5"
+      ]
+    }
+  }
+}
